@@ -48,6 +48,8 @@ Ensure you have the following installed:
 
 ## Usage
 
+![Screenshot 2024-12-04 at 12 29 29 PM](https://github.com/user-attachments/assets/82289732-c146-40ce-a35f-8548f4cbdb00)
+
 - Enter the mortgage details.
 - Click on the "Calculate" button to see the monthly payment amount.
 
@@ -57,6 +59,9 @@ Ensure you have the following installed:
 - **`server/`**: Contains the Node server.
 
 ## Tests
+
+![Screenshot 2024-12-04 at 12 28 57 PM](https://github.com/user-attachments/assets/055f7fa7-546e-4895-a7fb-58c27b3874e2)
+
 **React**:
    ```bash
    npm test or yarn test
